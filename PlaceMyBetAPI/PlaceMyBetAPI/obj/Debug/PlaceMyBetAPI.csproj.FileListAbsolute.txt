@@ -1,0 +1,706 @@
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\PlaceMyBetAPI.dll.config
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\PlaceMyBetAPI.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\PlaceMyBetAPI.pdb
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csc.exe
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csc.exe.config
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csc.rsp
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csi.exe
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csi.exe.config
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csi.rsp
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Console.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\vbc.exe
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\vbc.exe.config
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\vbc.rsp
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Antlr3.Runtime.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\EntityFramework.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Newtonsoft.Json.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Owin.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Helpers.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Mvc.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Optimization.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Razor.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\WebGrease.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Newtonsoft.Json.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Helpers.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Mvc.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Optimization.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Razor.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\EntityFramework.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Razor.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\EntityFramework.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.csprojAssemblyReference.cache
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.csproj.CoreCompileInputs.cache
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.csproj.CopyComplete
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.pdb
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\BouncyCastle.Crypto.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Google.Protobuf.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\MySql.Data.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Renci.SshNet.dll
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Google.Protobuf.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\MySql.Data.xml
+C:\Users\Toni Montalva\Desktop\Ciclo DAM\2o CURSO\Acceso a datos\Proyecto API\PlaceMyBetAPI\PlaceMyBetAPI\bin\Renci.SshNet.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\PlaceMyBetAPI.dll.config
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\PlaceMyBetAPI.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\PlaceMyBetAPI.pdb
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csc.exe
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csc.exe.config
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csc.rsp
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csi.exe
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csi.exe.config
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csi.rsp
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Console.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\vbc.exe
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\vbc.exe.config
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\vbc.rsp
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\netstandard.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.AppContext.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Collections.Concurrent.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Collections.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Collections.NonGeneric.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Collections.Specialized.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ComponentModel.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ComponentModel.Primitives.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Console.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Data.Common.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.Contracts.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.Debug.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.Process.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.Tools.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.Tracing.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Drawing.Primitives.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Dynamic.Runtime.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Globalization.Calendars.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Globalization.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Globalization.Extensions.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.Compression.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.FileSystem.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.IsolatedStorage.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.Pipes.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Linq.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Linq.Expressions.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Linq.Parallel.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Linq.Queryable.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Http.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.NameResolution.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.NetworkInformation.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Ping.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Primitives.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Requests.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Security.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Sockets.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.WebSockets.Client.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.WebSockets.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ObjectModel.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Reflection.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Reflection.Extensions.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Reflection.Primitives.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Resources.Reader.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Resources.ResourceManager.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Resources.Writer.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Extensions.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Handles.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.InteropServices.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Numerics.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Claims.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Principal.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.SecureString.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Text.Encoding.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Text.RegularExpressions.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Overlapped.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Tasks.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Thread.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.ThreadPool.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Timer.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ValueTuple.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Xml.ReaderWriter.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Xml.XDocument.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Xml.XmlDocument.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Xml.XmlSerializer.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Xml.XPath.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Antlr3.Runtime.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\BouncyCastle.Crypto.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\EntityFramework.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Google.Protobuf.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\MySql.Data.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\MySqlConnector.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Newtonsoft.Json.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Owin.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Pomelo.JsonObject.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Remotion.Linq.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Renci.SshNet.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Buffers.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Collections.Immutable.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ComponentModel.Annotations.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Interactive.Async.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Memory.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Numerics.Vectors.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Helpers.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Mvc.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Optimization.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Razor.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\WebGrease.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Google.Protobuf.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\MySql.Data.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Newtonsoft.Json.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Remotion.Linq.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Renci.SshNet.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Buffers.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Collections.Immutable.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Interactive.Async.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Memory.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Numerics.Vectors.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Helpers.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Mvc.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Optimization.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Razor.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\EntityFramework.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Razor.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\EntityFramework.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.csprojAssemblyReference.cache
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.dll.config
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.csproj.CoreCompileInputs.cache
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.csproj.CopyComplete
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.dll
+C:\Users\Toni Montalva\Desktop\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.pdb
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\PlaceMyBetAPI.dll.config
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\PlaceMyBetAPI.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\PlaceMyBetAPI.pdb
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csc.exe
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csc.exe.config
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csc.rsp
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csi.exe
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csi.exe.config
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\csi.rsp
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Console.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\vbc.exe
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\vbc.exe.config
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\vbc.rsp
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\netstandard.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.AppContext.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Collections.Concurrent.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Collections.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Collections.NonGeneric.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Collections.Specialized.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ComponentModel.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ComponentModel.Primitives.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Console.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Data.Common.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.Contracts.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.Debug.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.Process.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.Tools.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.Tracing.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Drawing.Primitives.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Dynamic.Runtime.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Globalization.Calendars.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Globalization.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Globalization.Extensions.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.Compression.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.FileSystem.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.IsolatedStorage.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.Pipes.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Linq.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Linq.Expressions.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Linq.Parallel.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Linq.Queryable.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Http.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.NameResolution.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.NetworkInformation.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Ping.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Primitives.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Requests.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Security.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Sockets.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.WebSockets.Client.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.WebSockets.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ObjectModel.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Reflection.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Reflection.Extensions.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Reflection.Primitives.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Resources.Reader.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Resources.ResourceManager.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Resources.Writer.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Extensions.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Handles.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.InteropServices.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Numerics.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Claims.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.Principal.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Security.SecureString.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Text.Encoding.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Text.RegularExpressions.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Overlapped.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Tasks.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Thread.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.ThreadPool.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Timer.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ValueTuple.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Xml.ReaderWriter.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Xml.XDocument.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Xml.XmlDocument.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Xml.XmlSerializer.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Xml.XPath.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Antlr3.Runtime.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\BouncyCastle.Crypto.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\EntityFramework.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Google.Protobuf.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\MySql.Data.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\MySqlConnector.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Newtonsoft.Json.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Owin.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Pomelo.JsonObject.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Remotion.Linq.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Renci.SshNet.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Buffers.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Collections.Immutable.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.ComponentModel.Annotations.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Interactive.Async.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Memory.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Numerics.Vectors.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Helpers.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Mvc.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Optimization.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Razor.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\WebGrease.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Google.Protobuf.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\MySql.Data.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Newtonsoft.Json.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Remotion.Linq.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Renci.SshNet.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Buffers.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Collections.Immutable.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Interactive.Async.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Memory.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Numerics.Vectors.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Helpers.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Mvc.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Razor.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\System.Web.Optimization.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\EntityFramework.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Razor.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\EntityFramework.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.dll.config
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.csproj.CoreCompileInputs.cache
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.csproj.CopyComplete
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.dll
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.pdb
+C:\Users\Toni Montalva\Desktop\Programas\RepoEntityFramework\AE5\PlaceMyBetAPI\PlaceMyBetAPI\obj\Debug\PlaceMyBetAPI.csprojAssemblyReference.cache
