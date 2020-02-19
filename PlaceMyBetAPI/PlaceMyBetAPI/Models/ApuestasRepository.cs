@@ -40,6 +40,22 @@ namespace PlaceMyBetAPI.Models
         }
         // Fin ejercicio 1
 
+        // Inicio ejercicio 2
+        internal List<Apuesta> ObtenerApuestasPorNombreEquipo(string equipo)
+        {
+            List<Apuesta> apuestas = new List<Apuesta>();
+            equipo = equipo.ToLower();
+
+            using (PlaceMyBetContext context = new PlaceMyBetContext())
+            {
+                apuestas = context.Apuestas.Include(p => p.Mercado).Include(e => e.Mercado.Evento).Where(a => a.Mercado.Evento.EquipoLocal.ToLower() == equipo || a.Mercado.Evento.EquipoVisitante.ToLower() == equipo).ToList();
+            }
+
+            return apuestas;
+        }
+
+        // Fin ejercicio 2
+
         internal List<Apuesta> Retrieve()
         {
             List<Apuesta> apuestas = new List<Apuesta>();

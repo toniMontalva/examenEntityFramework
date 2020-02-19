@@ -39,6 +39,17 @@ namespace PlaceMyBetAPI.Controllers
 
         // Fin 
 
+        // Inicio ejercicio 2
+
+        // GET: api/Apuestas?equipo=valor
+        internal List<Apuesta> GetApuestasPorNombreEquipo(string equipo)
+        {
+            var repo = new ApuestasRepository();
+            return repo.ObtenerApuestasPorNombreEquipo(equipo);
+        }
+
+        // Fin ejercicio 2
+
         // GET: api/Apuestas?email=valor
         public IEnumerable<Apuesta> GetApuestas(string email)
         {
