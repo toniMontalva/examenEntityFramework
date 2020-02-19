@@ -26,6 +26,19 @@ namespace PlaceMyBetAPI.Controllers
             return null;
         }
 
+        // Ejercicio 1 examen
+
+        // GET: api/Apuestas?dinero=valor
+        public List<ApuestaDTO> GetApuestasPorDinero(double dinero)
+        {
+            var repo = new ApuestasRepository();
+            List<ApuestaDTO> apuestasFiltroDTO = repo.RetrieveMoneyDTO(dinero);
+            
+            return apuestasFiltroDTO;
+        }
+
+        // Fin 
+
         // GET: api/Apuestas?email=valor
         public IEnumerable<Apuesta> GetApuestas(string email)
         {
